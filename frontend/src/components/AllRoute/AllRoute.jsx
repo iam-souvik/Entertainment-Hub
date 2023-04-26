@@ -1,9 +1,9 @@
 import React from 'react'
 import { Route, Routes } from "react-router-dom"
-import Movies from '../../Pages/Movies'
-import Trending from '../../Pages/Trending'
-import Series from '../../Pages/Series'
-import Search from '../../Pages/Search'
+import Movies from '../../Pages/Movies/Movies'
+import Trending from '../../Pages/Trending/Trending'
+import Series from '../../Pages/Series/Series'
+import Search from '../../Pages/Search/Search'
 const AllRoute = () => {
     return (
         
